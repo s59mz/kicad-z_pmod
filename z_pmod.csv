@@ -1,0 +1,7 @@
+Comment,Designator,Footprint,LCSC
+"2.5mm","H1","MountingHole:MountingHole_2.5mm",""
+"to-J7","J1","Connector_PinSocket_2.54mm:PinSocket_2x06_P2.54mm_Vertical",""
+"to-J6","J2","Connector_PinSocket_2.54mm:PinSocket_2x06_P2.54mm_Vertical",""
+"to-J5","J3","Connector_PinSocket_2.54mm:PinSocket_2x06_P2.54mm_Vertical",""
+"pmod","J4","Connector_PinSocket_2.54mm:PinSocket_2x06_P2.54mm_Horizontal",""
+"cam","J5","Connector_PinSocket_2.54mm:PinSocket_2x09_P2.54mm_Horizontal",""
